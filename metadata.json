@@ -1,0 +1,6 @@
+{
+  "name": "ATELIER",
+  "description": "Editorial tactile luxury commerce application featuring AI Stylist, Multimodal Visual Match, Virtual Try-On, and Bag Savings Advisor.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
